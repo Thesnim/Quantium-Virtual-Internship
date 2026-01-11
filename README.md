@@ -34,25 +34,25 @@ The main objective of this internship was to analyze customer purchasing behavio
 
 ## 📂 Tasks Completed
 
-### 🔹 Task 1: Data Preparation & Cleaning
+### 🔹 Data Preparation & Cleaning
 
 * Loaded and explored transactional datasets
 * Checked for missing values and duplicates
 * Cleaned and formatted data for analysis
 
-### 🔹 Task 2: Exploratory Data Analysis (EDA)
+### 🔹 Exploratory Data Analysis (EDA)
 
 * Analyzed customer purchase patterns
 * Identified top-selling products and categories
 * Studied trends over time using aggregations
 
-### 🔹 Task 3: Customer Analytics
+### 🔹 Customer Analytics
 
 * Segmented customers based on purchasing behavior
 * Analyzed frequency and spend patterns
 * Identified high-value customer groups
 
-### 🔹 Task 4: Business Insights & Recommendations
+### 🔹Business Insights & Recommendations
 
 * Summarized key insights from the analysis
 * Provided data-backed recommendations to improve sales performance
@@ -88,6 +88,6 @@ The **Quantium Virtual Internship** is offered through **Forage** and simulates 
 
 Feel free to connect with me on **LinkedIn** or explore my other projects on **GitHub**.
 
----
 
-⭐ *This repository is created for learning and portfolio purposes.*
+
+
